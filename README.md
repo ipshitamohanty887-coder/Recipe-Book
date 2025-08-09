@@ -1,8 +1,11 @@
 # 📖 Recipe Book Website
 
 A beautiful and responsive **Recipe Book** website built using **HTML & CSS only**.  
-This project displays categorized recipes including breakfast, lunch, dinner, and desserts with images and descriptions.
-**Live Demo:** [Click Here](https://ipshitamohanty887-coder.github.io/Recipe-Book/)
+This project displays categorized recipes including breakfast, lunch, dinner, and desserts with images and descriptions.  
+
+🔗 **Live Demo:** [Click Here](https://ipshitamohanty887-coder.github.io/Recipe-Book/)
+
+---
 
 ## 📁 Pages Included
 
@@ -13,7 +16,9 @@ This project displays categorized recipes including breakfast, lunch, dinner, an
 - `dessert.html` – Sweet and delicious desserts
 - `style.css` – Styling for the entire website
 
-## Screenshots
+---
+
+## 📸 Screenshots
 
 ### Homepage
 ![Homepage](images/homepage-screenshot.png)
@@ -29,6 +34,9 @@ This project displays categorized recipes including breakfast, lunch, dinner, an
 
 ### Dessert Page
 ![Dessert Page](images/dessert-page.png)
+
+---
+
 ## 🍽️ Features
 
 - Fully responsive design
@@ -37,18 +45,14 @@ This project displays categorized recipes including breakfast, lunch, dinner, an
 - Images of each dish for better appeal
 - Easy navigation bar across pages
 
+---
+
 ## 💡 Technologies Used
 
 - HTML5 for structure
 - CSS3 for styling
 
-## 📸 Preview
-
-> Open `index.html` in your browser to start exploring recipes.
-
-## 🔗 Live Demo (Optional)
-
-> *(Add GitHub Pages or Netlify link here if deployed)*
+---
 
 ## 📄 License
 
@@ -58,4 +62,3 @@ Feel free to modify or build upon it!
 ---
 
 👩‍🍳 Created by [@ipshitamohanty887-coder](https://github.com/ipshitamohanty887-coder)
-
