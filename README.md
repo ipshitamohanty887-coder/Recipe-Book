@@ -23,18 +23,17 @@ This project displays recipes categorized into Breakfast, Lunch, Dinner, and Des
 ###  Home Page
 <img width="1366" height="688" alt="homepage-screenshot" src="https://github.com/user-attachments/assets/b57ebef4-ca5a-4b86-9d09-d72ac18a0e3c" />
 
-
 ###  Breakfast Page
-![Breakfast Page](images/breakfast-page.png)
+<img width="1366" height="688" alt="breakfast-page" src="https://github.com/user-attachments/assets/1b992084-3245-4ecf-b243-8cb67b794e20" />
 
 ###  Lunch Page
-![Lunch Page](images/lunch-page.png)
+<img width="1366" height="686" alt="lunch-page" src="https://github.com/user-attachments/assets/49b5a392-9d41-4a80-aff0-b07098efa465" />
 
 ###  Dinner Page
-![Dinner Page](images/dinner-page.png)
+<img width="1366" height="688" alt="dinner-page" src="https://github.com/user-attachments/assets/8f71e3a4-c5de-46d8-a20c-3e8fdb914f33" />
 
 ###  Dessert Page
-![Dessert Page](images/dessert-page.png)
+<img width="1366" height="689" alt="dessert-page" src="https://github.com/user-attachments/assets/199b7464-e1e8-41b2-83f4-1d9e88bb46a7" />
 
 ---
 
