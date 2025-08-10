@@ -21,7 +21,8 @@ This project displays recipes categorized into Breakfast, Lunch, Dinner, and Des
 ## ​ Screenshots
 
 ###  Home Page
-![Homepage](images/homepage-screenshot.png)
+<img width="1366" height="688" alt="homepage-screenshot" src="https://github.com/user-attachments/assets/b57ebef4-ca5a-4b86-9d09-d72ac18a0e3c" />
+
 
 ###  Breakfast Page
 ![Breakfast Page](images/breakfast-page.png)
